@@ -38,5 +38,5 @@ def send_learning_results(name='Model', log = [], where = 'tg'):
 
         send_message_to_tg_user(my_id, message)   '''
 
-send_message_to_tg_user(my_id, 'test')
+#send_message_to_tg_user(my_id, 'test')
     
